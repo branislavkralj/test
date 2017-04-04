@@ -1,3 +1,4 @@
+import java.util.Random;
 
 public class Test {
 
@@ -5,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World1");
 		System.out.println("Bla, bla...");
+		System.out.println("Hello Again");
+		
 	}
 
 }
